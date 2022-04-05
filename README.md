@@ -10,7 +10,7 @@ SO THAT my company can compete with other e-commerce companies
 - Allow ability to view, and update products, their categories, and tags
 - Create new products, update inventory, delete products
 
-[DEMO VIDEO]()
+[DEMO VIDEO](https://drive.google.com/file/d/1cHL_kCMHnB3_bBB4krgz8_8zGzs3C7ik/view?usp=sharing)
 
 ## Installation 
 - Clone the repository 
@@ -25,7 +25,7 @@ DB_PW='MySQL password'
 ```
 - Open MySQL shell and sign in
 - $ source db/schema.sql, then quit
-- $ run npm run seed
+- $ npm run seed
 - $ npm start
 - http GET, POST, PUT, DELETE routes include
   - /api/categories
